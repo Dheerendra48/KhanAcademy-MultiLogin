@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="129732" started-at="2020-11-11T07:13:14Z" finished-at="2020-11-11T07:15:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="129732" started-at="2020-11-11T07:13:14Z" finished-at="2020-11-11T07:15:24Z">
+      <class name="TestMultiLogin">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestMultiLogin@59494225]" name="beforeClass" is-config="true" duration-ms="39652" started-at="2020-11-11T07:13:14Z" finished-at="2020-11-11T07:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="multiLoginFromExcelFile()[pri:0, instance:TestMultiLogin@59494225]" name="multiLoginFromExcelFile" duration-ms="79791" started-at="2020-11-11T07:13:54Z" finished-at="2020-11-11T07:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiLoginFromExcelFile -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestMultiLogin@59494225]" name="afterClass" is-config="true" duration-ms="10244" started-at="2020-11-11T07:15:14Z" finished-at="2020-11-11T07:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestMultiLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
